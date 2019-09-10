@@ -1,11 +1,24 @@
+First class 29.08.2019
 In todays class we reviewed some of the material studied in the previous year which I found very helpful as it reminded me of some concepts I hadnt touched on in a long time. 
 I really enjoyed the small but interesting slide about Blockchain and would like to learn more about that and maybe there is even a possibility to use this in my CS IA. Lets see...
 I found the challenge very interesting and engaging. More of that!
 This was a very different type and style of class than what we had in the previous year and I really enjoyed it. 
 
-Second class. 
-Started with some terminal and rapsery pi. Talking about the IA ideas and starting to further develop this process. 
+Second class.02.09.2019
+We started seeting up the raspery pi´s which was easy for me as I had joined the weekend session and therefore had my login already setup and the VNC viewer installed. 
+Later we had a brief talk about our IA ideas and progress which I found very helpful to get started with it. As next steps I will have to further develop and think through the different sections, functunalities and design of the platform I want to program. 
+A UML diagram will therefore be the right next step as well as creating a graphic prototype in Adobe XD. 
+Due to other IA deadlines in other subjects, I am currently not able to completely focus on the IA and truly dive into the topic which I think is essential for computer science to truly first understand something and plkan it out before starting blindly. 
 
-Third class: 
+Third class: 03.09.2019
 We did some work on networks and worked through the different layers which are standardized and their real world applications. 
 Later the python programming was very interesting. I feel the need to learn more syntax for python to improve in that. Also I felt the need, to review and trace the code later at home to better understand it. 
+I got a better understanding of what python is and all the applications a RPi can be used for. 
+
+Fourth class 10.09.2019
+Today we split the class into two, one group working on HTML and CSS web developing and the my group trying to establish a VPN server on a rasperry pi. 
+We therefore used the VNC viewer and the terminal in the RPi to install PiVPN from git hub, set up a client. Some smaller problems occurred in the process such as deciding if using the TCP or UDP protocol ocurred in the process as these steps where not indicated in the guiding webpage we used. 
+Therefore we researched these thing seperately which was no probblem. Unfortunately we reached the end of the class before we had time to figure out why we werent able to extract the key file of the VPN client from the RPi. 
+We used Webstorm for this, however error messages popped up and couldnt been resolved in class time.
+Hopefully we find some time to resolve this in the upcoming classes to fully understand how to set up a VPN server on a RPi. 
+We recorded our steps in a shared document as well as IP addresses, passwords, user names etc to later be able to remind ourselves of this and not have to start over again. 
