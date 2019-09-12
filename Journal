@@ -22,3 +22,14 @@ Therefore we researched these thing seperately which was no probblem. Unfortunat
 We used Webstorm for this, however error messages popped up and couldnt been resolved in class time.
 Hopefully we find some time to resolve this in the upcoming classes to fully understand how to set up a VPN server on a RPi. 
 We recorded our steps in a shared document as well as IP addresses, passwords, user names etc to later be able to remind ourselves of this and not have to start over again. 
+
+Fifth class 12.09.2019
+Today we continued figuring out how to extract the vpn key file from the RPi onto our computers in order to be able to connect to the VPN server installed on the RPi. 
+This time we tried through using the scp... command and to extract the file via ssh and place it into our own Desktops. 
+We failed again and as so often in computer science spend a long time trying to figure out what could possibly be wrong and read online forums looking for people with the same problem. 
+All this was not helpful and we were not able to even connect to the RPi via ssh as it denied the password. 
+As a last line we tried rebooting, leaving the room and trying over agin which also did not work. 
+We decided to therefore chose a different RPi. We reinstalled the VPN server and added a client. This time we were able to extract the key file. 
+In the key file on our desktop we then changed the IP address to the address of the RPi and set the port to the default port 1194. 
+And it finally worked. 
+I find this part of searching for errors the hardest part of computer science, as a very simple error can take ours to be found. However, this is where I learn the most and really understand the underlying proceses. 
