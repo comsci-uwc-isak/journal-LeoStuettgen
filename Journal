@@ -33,3 +33,12 @@ We decided to therefore chose a different RPi. We reinstalled the VPN server and
 In the key file on our desktop we then changed the IP address to the address of the RPi and set the port to the default port 1194. 
 And it finally worked. 
 I find this part of searching for errors the hardest part of computer science, as a very simple error can take ours to be found. However, this is where I learn the most and really understand the underlying proceses. 
+
+Six class 16.09.2019 
+In todays class, we first reviewed "System fundamentals", the first topic studied in G11 in a short Kahoot. This was fun and I find it helpful to recall things studied a long time ago and reinforce the memory. 
+Afterwards we started discussing how we could mathematically encrypt a message symmetrically using a private and public key and how this could be programmed. 
+Later we started writing the HTML and CSS for such a program, while not spending much time on design but just some simple input fields. 
+Even though very basic, I find this very helpful to remember webDevelopment which will be helpful in starting my IA work soon. 
+As Homework, we will finish our "How to set up a VPN server on a RPI" instruction slides and will draw a flowchart for the encryption tool program which will be continued in the next class. 
+I will definetely have to look up the flowchart drawing tecniques to recall this into my memory. 
+I am looking forward to continuing this program soon as I am not yet completely sure how to work with the inputs and how to interconnect JavaScript and HTML. 
