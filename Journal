@@ -55,3 +55,13 @@ Later, we finished the encoding program. I had installed all the necessary plug-
 As I am a little unfamiliar with coffeescript syntax, I found it a little bit hard to trace the code and follow the logic of the program. 
 I will review this at home. 
 At the end, we looked into the criterion "Planning" of our IAs. We loked at a high scoring example and as homework will start the planning stage and draw a sketch/flowchart of our IA. 
+
+9th class 24.09.2019 
+Today, we looked at how to install mysql server o a rasperry pi in order to be able to use this as a hosting server for our IAs which all will nned a database. 
+Before this, we recalled how to draw simple ER diagrams, showing the relationships between different database tables for a simple class management program consisting of student, classes and teachers. 
+Then we installed sqlserver on the RPis and configured them. 
+I made some mistake in the configuration process, as I wasnt asked for a password. Ill have to find out the reason for this. 
+I took note of all steps and commands, so I can repeat this later at home and later use the same process in my IA. 
+Later we entered the phpadmin and graphically created our first tables with different columns of different data type and properties. 
+Next week we will start connecting a login page to a database. 
+I am looking forward to this, as I will need both of this in my IA. 
