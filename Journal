@@ -65,3 +65,10 @@ I took note of all steps and commands, so I can repeat this later at home and la
 Later we entered the phpadmin and graphically created our first tables with different columns of different data type and properties. 
 Next week we will start connecting a login page to a database. 
 I am looking forward to this, as I will need both of this in my IA. 
+
+10th class 20.09.2019 
+Today we finished our login application. We first wrote the HTML and CSS, connected the database we had created in the previous class through going to Tools>Deployment>Browse Remote Host. 
+There we created a PHP file in which we linked to the HTML. Opening the file in the browser, we tested if it was working. I had to adapt some variable names, and make some changes in the database regarding username and password and then it finally worked. 
+I will use this knowledge later on for my IA as I will need to code a LogIn page for this one as well. 
+This was very useful and gave me a better idea of how my IA might look like. 
+We used the rest of the class to prepare for a test on te topic "Networks" which we will have in the upcoming class. 
