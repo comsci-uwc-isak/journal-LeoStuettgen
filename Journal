@@ -94,3 +94,41 @@ In todays class, HL material was covreed. Therefore I had time to work on my IA.
 I got a rasperry pi, which I will set up and install over the next week. 
 During the class time, I investigated on how to install a web server on a rasperry pi. Now I have a broad idea what to follow. 
 Afterwards, I worked on a schedule for my IA work during the break and to plan the different components of my IA in a logical sequence. 
+
+CSIA Beta version development
+For my CS IA I chose to program a connected inventory and ledger program, hosted on a rasperry pi server for the Merchandise Club. 
+I started installing PHPmyadmin, PHP and MariaDB on my rasperry pi to setup the databse and host structure to afterwards configure the database and different tables. 
+Next I developed the front end while not spending too much time on design and responsiveness. 
+When I started trying to insert and select from the databse the first real problems appeared. Somehow, my database connection didnt establish when importing the database handler file. 
+After 3 long days trying all possible varitions and even starting all over again it still didnt work so I seeked advise. Dt Pinzon was able to resolve it within 30 minutes by procedurally testing each different step in the program to narrow down the scope where the error laid. 
+We figure out that it was some error with the importing, however when having the database on file in each subfile, it worked. 
+From this I learned how to procedurally print different variables with different scopes to narrow down the location of the error. 
+This would be very helpful later on when more and more problems appeared, that I could then resolve myself. 
+In the end, I had a working first prototype with a small amount of error handling and user friendliness. 
+However, it is a version which I could present to my customer who tested it and gave feedback. 
+The next step is to continue working on it, increase security while not overly focusing on it and increasing user friendliness through increased error handling and display of instructions and error messages. 
+
+Monday, November 4th 2019. 
+In todays class, we were presented with a challenge to locate as many as possible rasperry pis in the KAC through activating their connected led light. 
+After finding the IP addresses using the angry IP scanner, I selected one and connected via VNC. Following an online tutorial, I wrote the code through the terminal in nao using python.
+The script would let the LED blink in regular intervals for a determined time. 
+After several unsuccesfull trys, we were given the hint to install the necessary python library GPIO in order to be able to use the ports of the rasperry pi. 
+After doing so, we should have been able to execute the script and the light to blink. Suprisingly they didnt. When comparing the code with Omar, the student who showed a natural talent in locating rasperry pis I figured that contrary to the assumption of using Port 17, he was succesfully accessing Port 11. 
+When doing this myself, 30 minutes of headache and confusion suddenly disappeared and it finally worked. 
+
+Tuesday, November 5th 2019. 
+In thid class, we reviwed a past paer for the OOP option. Even though the content looked familiar, it was still difficult to recall the details and the Java syntax. 
+Therefore, it was a very good review and showed me that I had to review this topic more in future. 
+Therefore, we decided as a class to start working on an OOP Java project, modelling the condisions of the Big Bang. 
+
+
+
+
+
+
+
+
+
+
+
+
