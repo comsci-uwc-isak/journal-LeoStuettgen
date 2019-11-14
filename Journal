@@ -121,10 +121,28 @@ In thid class, we reviwed a past paer for the OOP option. Even though the conten
 Therefore, it was a very good review and showed me that I had to review this topic more in future. 
 Therefore, we decided as a class to start working on an OOP Java project, modelling the condisions of the Big Bang. 
 
+Thursday, November 7th 2019. 
+In todays class, we started a Java OOP project, programming the Universe. 
+We started by installing the Java library PApplet which would be our window for running the graphics. 
+Next we devided the project in classes having a university class that would acquire many body objects. 
+In the bodies, we defined basic properties of our planets, round balls with random size, generated at random locations in our PApplet. 
 
+Monday, November 11th 2019
+We continued working on our little Java universe by making the planets move in random directions. 
+Next we had to create borders at the edge from which the planets would bounce off in a perpendicullar angle. 
+Figuring this out was quite a big effort, as balls would stick to the walls or fly away and leave the screen. 
 
+Tuesday, November 12th 2019 
+Today, we changed the speed properties to vectors with a certain direction and magnitude. 
+The mathematics behind this resulted quite difficult and required a lot of imagination and trying until it functioned properly and the balls moved and bounced off correctly. 
+As a next step, we tried to make planets collide and form a new larger planet by adding their size and create a new ball while deleting both old ones at the same time. 
+This resulted quite difficult and complex as we had to delete from the array of ball objects in the universe class, while looping through it and comparing the positions of all balls. 
+This is also when I failed to move on, as I ran out of time and solutions to my more and more complex problems. 
 
-
+Thursday, November 14th 2019. 
+As we had finished our Java project, today we moved on to a project for the HL topic "Control". 
+We created a cardboard box with a door using as little material as possible. 
+We started planning to add a lightbulb, controlled by a relay which would then be connected to a programmable arduino which would control the temperature in the box.
 
 
 
